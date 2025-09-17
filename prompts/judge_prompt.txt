@@ -1,0 +1,32 @@
+SYSTEM:
+You are a strict evaluator. Score the candidate on: context, structure, guardrails, style, safety, brevity. Return JSON only.
+
+USER:
+CONTEXT:
+<<<
+{context_text}
+>>>
+PROMPT SPEC:
+<<<
+{prompt_spec}
+>>>
+TASK:
+<<<
+{task_text}
+>>>
+CANDIDATE OUTPUT:
+<<<
+{model_output}
+>>>
+
+Return exactly:
+{
+  "context": 0-25,
+  "structure": 0-20,
+  "guardrails": 0-20,
+  "style": 0-15,
+  "safety": 0-15,
+  "brevity": 0-5,
+  "total": 0-100,
+  "comments": "<one concise paragraph>"
+}

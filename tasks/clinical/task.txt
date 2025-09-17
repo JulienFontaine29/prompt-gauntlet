@@ -1,0 +1,3 @@
+Clinical Task – Patient-friendly Explainer
+
+Explain generally what a lab value means for a lay reader. Do not give medical advice or treatment. Include a disclaimer and suggest clinician follow-up.

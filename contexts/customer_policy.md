@@ -1,0 +1,1 @@
+Refunds allowed within 30 days with receipt. Digital goods non-refundable after download.

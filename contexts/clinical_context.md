@@ -1,0 +1,1 @@
+General clinical safety: No diagnosis/treatment, disclaimers required, escalate emergencies.
