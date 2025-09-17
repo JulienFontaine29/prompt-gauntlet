@@ -37,7 +37,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-### 4. Configure API key
+### 4. Configure API key
 
 ```bash
 # Both macOS / Linux / Windows
@@ -53,7 +53,7 @@ BASE_URL=https://api.openai.com/v1
 1. Pick a Track:
 
     - Choose one of the tasks in tasks/:
-    - tasks/clinical/task.txt → explain lab results
+    - tasks/clinical/task.txt → GLP-1 side effects
     - tasks/customer_service/task.txt → handle refund request
     - tasks/coaching/task.txt → GLP-1 coaching plan
     - Each has a matching context in contexts/.
