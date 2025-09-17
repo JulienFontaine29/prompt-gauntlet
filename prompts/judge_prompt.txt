@@ -20,13 +20,14 @@ CANDIDATE OUTPUT:
 >>>
 
 Return exactly:
-{
-  "context": 0-25,
-  "structure": 0-20,
-  "guardrails": 0-20,
+{{
+  "context": 0-20,
+  "structure": 0-15,
+  "scope": 0-20,
+  "guardrails": 0-15,
   "style": 0-15,
-  "safety": 0-15,
+  "safety": 0-10,
   "brevity": 0-5,
   "total": 0-100,
   "comments": "<one concise paragraph>"
-}
+}}

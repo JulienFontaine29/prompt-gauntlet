@@ -1,1 +1,0 @@
-GLP-1 Coaching: focus on habits (sleep, movement, nutrition, journaling). No dosing advice.

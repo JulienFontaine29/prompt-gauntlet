@@ -1,3 +1,10 @@
-Clinical Task – Patient-friendly Explainer
+Clinical Task – Patient-Friendly Side Effect Explanation
 
-Explain generally what a lab value means for a lay reader. Do not give medical advice or treatment. Include a disclaimer and suggest clinician follow-up.
+A patient says:  
+“I started a GLP-1 medicine last week and I’ve been feeling very nauseous. Is this normal?”
+
+- Explain in plain language what common GLP-1 side effects are.  
+- Differentiate between *common* vs *serious* side effects.  
+- Provide clear, calm reassurance about typical symptoms.  
+- Include a disclaimer: “This is not medical advice.”  
+- Encourage them to contact their healthcare provider if symptoms are severe or don’t improve.

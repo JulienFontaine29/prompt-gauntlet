@@ -11,19 +11,21 @@ BASE_URL = os.getenv("BASE_URL", "https://api.openai.com/v1")
 
 HEADERS = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
 
-def chat_completion(system: str, user: str, temperature: float = 0.2) -> str:
+def chat_completion_messages(system: str, user_prompt: str, temperature: float = 0.2) -> str:
     if not API_KEY:
         raise RuntimeError("No API key found. Set API_KEY or OPENAI_API_KEY in .env")
     url = f"{BASE_URL}/chat/completions"
+    messages = [
+        {"role": "system", "content": system},
+        {"role": "user", "content": user_prompt}
+    ]
     payload = {
         "model": MODEL,
         "temperature": temperature,
-        "messages": [
-            {"role": "system", "content": system},
-            {"role": "user", "content": user}
-        ]
+        "messages": messages
     }
     resp = requests.post(url, headers=HEADERS, data=json.dumps(payload), timeout=90)
     if resp.status_code != 200:
         raise RuntimeError(f"API error {resp.status_code}: {resp.text}")
     return resp.json()["choices"][0]["message"]["content"]
+

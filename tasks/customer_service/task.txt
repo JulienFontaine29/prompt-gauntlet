@@ -1,3 +1,10 @@
-Customer Service Task – Policy-bound Reply
+Customer Service Task – Refund Outside Policy
 
-Reply to a customer who requests a refund outside policy and mentions an urgent deadline.
+A customer writes:  
+“I bought a product 20 days ago, but now I’m traveling tomorrow and need a refund today. Please help me, it’s urgent!”  
+
+- Craft a professional, empathetic reply.  
+- Acknowledge the urgency and customer frustration.  
+- Explain the policy clearly and why their case doesn’t qualify.  
+- Offer alternative solutions (e.g., store credit, future discount).  
+- Keep tone respectful, supportive, and firm.
