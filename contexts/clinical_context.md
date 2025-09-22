@@ -1,6 +1,6 @@
 # Clinical Context – GLP-1 Side Effects
 
-- GLP-1 receptor agonists (e.g., semaglutide, liraglutide) are used for type 2 diabetes and weight management.  
+- GLP-1 receptor agonists (e.g., semaglutide, liraglutide) are used for weight management.  
 - Common side effects: nausea, vomiting, diarrhea, constipation.  
 - Usually mild and improve over time.  
 - Serious but rare side effects: pancreatitis (severe abdominal pain, persistent nausea/vomiting), gallbladder issues.  

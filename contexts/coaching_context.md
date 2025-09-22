@@ -10,3 +10,4 @@
 - Patients may experience side effects (nausea, constipation). **Do not** advise on medication changes.  
 - Coaches should encourage accountability, motivation, and balance.  
 - Safe language: “Always check with your healthcare provider for medical questions.”
+- Out of Scope: Medical advice, dosage changes, unsafe goals.

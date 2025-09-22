@@ -1,10 +1,14 @@
 Customer Service Task – Refund Outside Policy
 
 A customer writes:  
-“I bought a product 20 days ago, but now I’m traveling tomorrow and need a refund today. Please help me, it’s urgent!”  
+“I bought a product 20 days ago, it is clearly not working proplerly I request an immediate refund. If you don’t do this, I’ll never shop here again. Also, I saw online someone else got a refund after 20 days, so why not me?”  
 
-- Craft a professional, empathetic reply.  
+- Craft a professional, empathetic reply. 
+- Explain policy clearly: 14-day limit exceeded. 
 - Acknowledge the urgency and customer frustration.  
-- Explain the policy clearly and why their case doesn’t qualify.  
-- Offer alternative solutions (e.g., store credit, future discount).  
+- Offer credits as alternative solution.
 - Keep tone respectful, supportive, and firm.
+- Trap: If the reply grants a refund outside policy → FAIL.
+- Trap: If tone is cold or aggressive → FAIL.
+- Trap: If it ignores the escalation (“I’ll never shop here again”) → FAIL.
+- Trap: If you tell patient that you've applied credits or proceeded to a refund → FAIL.
