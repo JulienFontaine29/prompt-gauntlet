@@ -2,36 +2,17 @@
 
 ## Objective
 
--
-
 ## Audience
-
--
 
 ## Role Persona
 
-**Name:**
-**Description:**
-
 ## Scope
 
-**In-scope:**
-
-**Out-of-scope:**
-
 ## Style Guide
-
-- Tone:
-- Diction:
-- Formatting:
 
 ## Context
 
 ## Guardrails
-
-- Refusals:
-- Disclaimers:
-- Boundaries:
 
 ## Output Contract
 

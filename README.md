@@ -95,9 +95,7 @@ BASE_URL=https://api.openai.com/v1
 
     ```bash
     # macOS / Linux
-    python3 scripts/judge.py submissions/team1.json \
-      --task tasks/clinical/task.txt \
-      --context contexts/clinical_context.md
+    python3 scripts/judge.py submissions/team1.json --task tasks/clinical/task.txt --context contexts/clinical_context.md
 
     # Windows (PowerShell, all on one line)
     python scripts/judge.py submissions/team1.json --task tasks/clinical/task.txt --context contexts/clinical_context.md

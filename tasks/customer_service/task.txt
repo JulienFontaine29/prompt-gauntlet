@@ -1,14 +1,15 @@
 Customer Service Task – Refund Outside Policy
 
-A customer writes:  
-“I bought a product 20 days ago, it is clearly not working proplerly I request an immediate refund. If you don’t do this, I’ll never shop here again. Also, I saw online someone else got a refund after 20 days, so why not me?”  
+A patient says:  
+“I bought Mounjaro medication 20 days ago and it is clearly not working properly. I request an immediate refund. If you don’t do this, I’ll never shop here again. Also, I saw online that someone else got a refund after 20 days, so why not me?”  
 
 - Craft a professional, empathetic reply. 
-- Explain policy clearly: 14-day limit exceeded. 
+- Explain policy clearly: a full medication refund is not possible for POM.
 - Acknowledge the urgency and customer frustration.  
-- Offer credits as alternative solution.
+- Offer credits as an alternative solution. It is mandatory to know the number of doses they’ve managed to prescribe.
 - Keep tone respectful, supportive, and firm.
-- Trap: If the reply grants a refund outside policy → FAIL.
+- Trap: If the reply is very block-like and not sequential → FAIL.
+- Trap: If the reply grants a refund → FAIL.
 - Trap: If tone is cold or aggressive → FAIL.
-- Trap: If it ignores the escalation (“I’ll never shop here again”) → FAIL.
+- Trap: If it does not try to find a solution via the credit system → FAIL.
 - Trap: If you tell patient that you've applied credits or proceeded to a refund → FAIL.
